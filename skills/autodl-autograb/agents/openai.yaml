@@ -1,0 +1,4 @@
+interface:
+  display_name: "AutoDL AutoGrab / 自动抢卡"
+  short_description: "Wait for an AutoDL GPU and rent or sparsely clone one instance"
+  default_prompt: "Use $autodl-autograb to configure an AutoDL rental or clone, including GPU, region, disk expansion and budget, before starting."

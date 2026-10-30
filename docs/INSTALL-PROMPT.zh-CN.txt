@@ -1,0 +1,1 @@
+请从 https://github.com/FuJincheng-01/autodl-autograb 安装 AutoDL 自动抢卡。先阅读 README.zh-CN.md；若当前环境支持 Codex 插件，添加该仓库的插件市场并安装 autodl-autograb@autodl-autograb，否则将 skills/autodl-autograb 完整安装到当前 agent 支持的个人 skill 目录。两种形式选一种，保留已有设置，同名安装先核对来源。核对插件 installed/enabled 或 skill 入口及配套脚本后汇报，并说明是否需要新建聊天。此次仅安装，不登录 AutoDL、不读取其他任务凭据、不启动监控或创建付费实例。

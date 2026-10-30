@@ -1,0 +1,20 @@
+{
+  "name": "autodl-autograb",
+  "interface": {
+    "displayName": "AutoDL AutoGrab"
+  },
+  "plugins": [
+    {
+      "name": "autodl-autograb",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

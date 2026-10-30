@@ -1,0 +1,17 @@
+{
+  "operation": "create",
+  "regionName": "西北B区",
+  "gpuModel": "vGPU-32GB",
+  "gpuCount": 1,
+  "extraDataDiskGb": 0,
+  "maxGpuHourlyCny": 1.58,
+  "maxDiskDailyCny": 0,
+  "imagePreference": "Miniconda",
+  "baseImageUuid": "",
+  "sourceInstanceUuid": "",
+  "subUser": false,
+  "minGpuMemoryGb": 32,
+  "minCpuCores": 0,
+  "minMemoryGb": 0,
+  "machineIds": []
+}

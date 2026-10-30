@@ -1,0 +1,17 @@
+auth.txt
+*.log
+.env
+.env.*
+!.env.example
+run.lock
+stop.request
+state.json
+clone-state.json
+notification-state.json
+process.json
+jobs/
+work/
+dist/
+node_modules/
+__pycache__/
+.DS_Store

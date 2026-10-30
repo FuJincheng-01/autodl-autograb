@@ -1,0 +1,14 @@
+{
+  "name": "autodl-autograb",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test skills/autodl-autograb/scripts/plugin.test.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}
